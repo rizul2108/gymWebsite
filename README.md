@@ -1,7 +1,7 @@
 # Turbo Gym
 
 
-This is a single page website of Gym with online `time-table` of the different classes in this pandemic time .
+This is a single page website of Gym with online `time-table` of the different classes.
 
 
 ## **Overview video of our Website**
